@@ -22,10 +22,13 @@ Jumper wires and breadboard for connections
 
 ## Setup:
 
+![STICKCIRCUIT!](https://user-images.githubusercontent.com/74906633/228583260-d6a9b7a7-9e54-4195-8f9a-209c6c61c9fd.PNG)
+
 Assemble the components on a breadboard or custom PCB.
 Connect the ultrasonic sensor, water detection sensor, buzzer, and LED to the microcontroller.
 Upload the provided code to the microcontroller.
 Test the Smart Stick to ensure proper functionality.
+Learn how to use EncodeAudio-Windows
 
 ## Usage:
 
